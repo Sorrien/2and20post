@@ -18,6 +18,10 @@ body {
     }
 }
 
+.background-color1 {
+  background-color: #1b1b1b;
+}
+
 #splash-section {
     position: relative;
    /* background-color: black;*/
