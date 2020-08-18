@@ -20,7 +20,7 @@ body {
 
 #splash-section {
     position: relative;
-    background-color: black;
+   /* background-color: black;*/
     height: 75vh;
     min-height: 25rem;
     width: 100%;
@@ -62,7 +62,7 @@ body {
     #splash-section {
       background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
     }
-    #splash-section video {
-      display: none;
-    }
+    /* #splash-section video {
+  display: none;
+    } */
   }
