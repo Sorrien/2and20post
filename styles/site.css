@@ -1,13 +1,13 @@
 #splashVideo {
     position: fixed;
     right: 0;
-    bottom: 0;
-    min-width: 100%;
+    bottom: 0; 
+    min-width: 100%; 
     min-height: 100%;
-  }
-  
-  .video-content {
-    position: fixed;
+  } 
+    
+  .video-content { 
+    position: fixed; 
     bottom: 0;
     background: rgba(0, 0, 0, 0.5);
     color: #f1f1f1;
@@ -19,4 +19,18 @@
     padding-bottom: 0px;
     width: auto;
     background-color: white;
+}
+
+body {
+    background-color: #1b1b1b;
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: "Roboto",Helvetica,Arial,sans-serif;
+    /*mobile*/
+    font-size: 14px;
+    /*desktop*/
+    @media all and (min-width:768px) {
+        font-size: 16px;
+    }
 }
