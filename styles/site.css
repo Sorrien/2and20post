@@ -30,6 +30,10 @@ body {
     width: 100%;
     overflow: hidden;
   }
+
+  #splash-section p {
+    font-size: 20px;
+  }
   
   #splash-section video {
     position: absolute;
