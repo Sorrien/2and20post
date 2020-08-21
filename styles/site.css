@@ -22,6 +22,14 @@ body {
   background-color: #1b1b1b;
 }
 
+.credits-section {
+  text-align: center;
+}
+
+#credits-row {
+  padding: 50px 0px 50px 0px;
+}
+
 #splash-section {
     position: relative;
    /* background-color: black;*/
