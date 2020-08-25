@@ -32,11 +32,11 @@ body {
 
 #splash-section {
     position: relative;
-   /* background-color: black;*/
     height: 75vh;
     min-height: 25rem;
     width: 100%;
     overflow: hidden;
+    background: url('/Splash_Start.jpg') black no-repeat center center scroll;
   }
 
   #splash-section p {
@@ -71,13 +71,4 @@ body {
     width: 100%;
     opacity: 0.5;
     z-index: 1;
-  }
-  
-  @media (pointer: coarse) and (hover: none) {
-    #splash-section {
-      background: url('/Splash_Start.jpg') black no-repeat center center scroll;
-    }
-    /* #splash-section video {
-  display: none;
-    } */
   }
