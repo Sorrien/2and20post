@@ -75,7 +75,7 @@ body {
   
   @media (pointer: coarse) and (hover: none) {
     #splash-section {
-      background: url('Splash_Start.jpg') black no-repeat center center scroll;
+      background: url('/Splash_Start.jpg') black no-repeat center center scroll;
     }
     /* #splash-section video {
   display: none;
