@@ -43,7 +43,7 @@ body {
     font-size: 20px;
   }
   
-  #splash-section video {
+  #splash-section #splash-video {
     position: absolute;
     top: 50%;
     left: 50%;
